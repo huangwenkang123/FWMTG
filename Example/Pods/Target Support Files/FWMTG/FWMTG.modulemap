@@ -1,0 +1,6 @@
+framework module FWMTG {
+  umbrella header "FWMTG-umbrella.h"
+
+  export *
+  module * { export * }
+}

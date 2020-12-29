@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  FWMTG
 //
-//  Created by rgmyyw on 12/29/2020.
-//  Copyright (c) 2020 rgmyyw. All rights reserved.
+//  Created by yanghai on 12/29/2020.
+//  Copyright (c) 2020 yanghai. All rights reserved.
 //
 
 import UIKit

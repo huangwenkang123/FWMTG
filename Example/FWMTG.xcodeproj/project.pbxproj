@@ -40,13 +40,13 @@
 		607FACE51AFB9204008FA782 /* FWMTG_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FWMTG_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6C79A9B1954FA78AF521EB6B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6C79A9B1954FA78AF521EB6B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		7CABD791C2446A8B117C2511 /* Pods_FWMTG_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FWMTG_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		934390D2EE14186B289D6777 /* FWMTG.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = FWMTG.podspec; path = ../FWMTG.podspec; sourceTree = "<group>"; };
+		934390D2EE14186B289D6777 /* FWMTG.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FWMTG.podspec; path = ../FWMTG.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9C28CED50ACCF2859F90DB15 /* Pods-FWMTG_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FWMTG_Example.release.xcconfig"; path = "Target Support Files/Pods-FWMTG_Example/Pods-FWMTG_Example.release.xcconfig"; sourceTree = "<group>"; };
 		A14BF4BCC6CF2E53EE986A45 /* Pods-FWMTG_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FWMTG_Tests.debug.xcconfig"; path = "Target Support Files/Pods-FWMTG_Tests/Pods-FWMTG_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BB14B4BC47C6E07E3414BCD0 /* Pods-FWMTG_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FWMTG_Example.debug.xcconfig"; path = "Target Support Files/Pods-FWMTG_Example/Pods-FWMTG_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		FAEAEDE94B72CAE945E28B80 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		FAEAEDE94B72CAE945E28B80 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,7 +86,6 @@
 				A14BF4BCC6CF2E53EE986A45 /* Pods-FWMTG_Tests.debug.xcconfig */,
 				3658DA1143382796A97408AD /* Pods-FWMTG_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

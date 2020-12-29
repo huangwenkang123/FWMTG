@@ -1,6 +1,6 @@
 # FWMTG
 
-[![CI Status](https://img.shields.io/travis/rgmyyw/FWMTG.svg?style=flat)](https://travis-ci.org/rgmyyw/FWMTG)
+[![CI Status](https://img.shields.io/travis/yanghai/FWMTG.svg?style=flat)](https://travis-ci.org/yanghai/FWMTG)
 [![Version](https://img.shields.io/cocoapods/v/FWMTG.svg?style=flat)](https://cocoapods.org/pods/FWMTG)
 [![License](https://img.shields.io/cocoapods/l/FWMTG.svg?style=flat)](https://cocoapods.org/pods/FWMTG)
 [![Platform](https://img.shields.io/cocoapods/p/FWMTG.svg?style=flat)](https://cocoapods.org/pods/FWMTG)
@@ -22,7 +22,7 @@ pod 'FWMTG'
 
 ## Author
 
-rgmyyw, yanghai@koall.io
+yanghai, yanghai@koall.io
 
 ## License
 

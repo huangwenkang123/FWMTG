@@ -1,0 +1,22 @@
+{
+  "name": "FWMTG",
+  "version": "0.1.0",
+  "summary": "A short description of FWMTG.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rgmyyw/FWMTG",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rgmyyw": "yanghai@koall.io"
+  },
+  "source": {
+    "git": "https://github.com/rgmyyw/FWMTG.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FWMTG/Classes/**/*"
+}
